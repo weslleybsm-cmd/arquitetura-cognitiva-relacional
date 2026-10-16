@@ -6,4 +6,4 @@ To view a copy of this license, visit:
 
 https://creativecommons.org/licenses/by/4.0/
 
-Unless otherwise indicated, this license applies to the theoretical documents and written materials identified in the repository. Source code is governed by its own license.
+Unless otherwise indicated, this license applies to the theoretical documents, written reports, and figures contained in the `teoria/` and `consequencias/` directories, as well as written documentation in the `experimentos/` directory. Source code is governed by the MIT License in the repository's `LICENSE` file.
