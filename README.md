@@ -81,7 +81,16 @@ artificial — demonstram que a base organizacional proposta é realizável em c
 comum e apontam onde a teoria precisa amadurecer. Toda formulação permanece aberta
 à revisão diante de novos resultados — inclusive as suas próprias conclusões.
 
-Licenças sugeridas
+## Licenciamento
 
-- Código (`*.py`): MIT
-- Textos e PDFs: CC BY 4.0 (atribuição)
+Este repositório utiliza licenças diferentes para o código-fonte e os materiais teóricos:
+
+- **Código-fonte dos experimentos (`experimentos/*.py`):** MIT License, conforme o arquivo `LICENSE` na raiz do repositório.
+- **Documentos teóricos e materiais textuais da ACR (`teoria/`, `consequencias/` e relatórios escritos):** Creative Commons Attribution 4.0 International (CC BY 4.0), conforme o aviso de licença correspondente.
+
+A licença de cada material deve ser respeitada em sua reutilização e redistribuição.
+
+**Atribuição sugerida para os materiais da ACR:** Weslley Bittencourt Sousa de Morais, *Arquitetura Cognitiva Relacional (ACR)*, com link para o repositório original e indicação de eventuais modificações.
+
+- CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+- MIT License: consulte o arquivo `LICENSE`.
