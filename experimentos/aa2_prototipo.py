@@ -1,3 +1,7 @@
+# Copyright (c) 2026 weslleybsm-cmd
+# Licensed under the MIT License.
+# See the LICENSE file in the repository root for details.
+
 """AA-2b — BCM calibrado + novidade (predicao temporal) + homeostasia.
 Resultado: diversidade de atratores recuperada (0.466) com reutilizacao
 mantida (0.73-0.87) e ocupacao espontanea distribuida entre atratores.
