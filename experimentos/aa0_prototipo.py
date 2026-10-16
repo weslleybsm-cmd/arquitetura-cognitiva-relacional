@@ -1,3 +1,7 @@
+# Copyright (c) 2026 weslleybsm-cmd
+# Licensed under the MIT License.
+# See the LICENSE file in the repository root for details.
+
 """AA-0 — Prototipo rudimentar de Arquitetura Artificial baseado na ACR.
 Substrato recorrente + reorganizacao continua (Hebb com decaimento).
 Observaveis: SREs candidatos, Acumulacao, Reutilizacao, Selecao, Continuidade.
