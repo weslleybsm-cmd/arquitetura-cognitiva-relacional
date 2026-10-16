@@ -39,11 +39,12 @@ acr/
 │   ├── aa1_prototipo.py          ← + competição (k-WTA) + homeostasia
 │   ├── aa2_prototipo.py          ← BCM calibrado + plasticidade gateada por novidade
 │   ├── RELATORIO_AA_0_AA2b.md    ← relatório completo da trajetória
+│   ├── resumo.md
 │   └── figuras/
 │       ├── aa0_resultados.png
 │       ├── aa1_resultados.png
 │       └── aa2_resultados.png
-└── LICENSE                       ← MIT (código) — recomendado adicionar CC BY 4.0 para textos
+└── LICENSE                       ← MIT (código) — CC BY 4.0 (textos)
 ```
 
 Resultados dos experimentos (resumo)
