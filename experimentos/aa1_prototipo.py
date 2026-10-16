@@ -1,3 +1,7 @@
+# Copyright (c) 2026 weslleybsm-cmd
+# Licensed under the MIT License.
+# See the LICENSE file in the repository root for details.
+
 """AA-1 — Competicao (k-WTA) + normalizacao homeostatica.
 Testa se Compatibilidade competitiva preserva diversidade de atratores
 sob plasticidade continua. Resultado: pureza sobe, MAS colapso persiste
