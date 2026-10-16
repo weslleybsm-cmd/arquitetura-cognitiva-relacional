@@ -44,7 +44,8 @@ acr/
 │       ├── aa0_resultados.png
 │       ├── aa1_resultados.png
 │       └── aa2_resultados.png
-└── LICENSE                       ← MIT (código) — CC BY 4.0 (textos)
+├── LICENSE                       ← MIT (código) — CC BY 4.0 (textos)
+└── LICENSE-CC-BY-4.0.md
 ```
 
 Resultados dos experimentos (resumo)
